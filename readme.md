@@ -1,10 +1,1 @@
 # readme
-
-
-woohoooo
-
-
-
-
-
-andkjakjsdnjkanjkdn
