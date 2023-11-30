@@ -5,11 +5,11 @@
     },
     "CHECKS": {
       "prefixes": ["fix: ", "feat: "],
-      "ignoreLabels" : ["skip"]
+      "ignoreLabels" : ["skip-title-check"]
     },
     "MESSAGES": {
       "success": "All OK",
-      "failure": "Failing CI test",
+      "failure": "Title must have semver prefix. Use `skip-title-check` label as escape hatch.",
       "notice": ""
     }
   }
