@@ -4,7 +4,7 @@
       "color": ""
     },
     "CHECKS": {
-      "prefixes": ["fix: ", "feat: "],
+      "prefixes": ["fix: ", "feat: ", "docs: ", "chore: "],
       "ignoreLabels" : ["skip-title-check"]
     },
     "MESSAGES": {
