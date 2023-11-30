@@ -5,6 +5,7 @@
     },
     "CHECKS": {
       "prefixes": ["fix: ", "feat: ", "docs: ", "chore: "],
+      "regexp": "^(fix|feat|docs|chore)\\(v[0-9]\\): ",
       "ignoreLabels" : ["skip-title-check"]
     },
     "MESSAGES": {
