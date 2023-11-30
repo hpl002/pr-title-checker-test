@@ -5,7 +5,7 @@
     },
     "CHECKS": {
       "prefixes": ["fix: ", "feat: "],
-      "ignoreLabels" : ["skip: "]
+      "ignoreLabels" : ["skip"]
     },
     "MESSAGES": {
       "success": "All OK",
